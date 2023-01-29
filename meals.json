@@ -1,0 +1,263 @@
+{
+  "meals": [
+    {
+      "name": "Baked chicken breast with rice and vegetables",
+      "type": "dinner",
+      "vegetarian": "no",
+      "protein": "chicken",
+      "ingredients": [
+        "chicken breast",
+        "rice",
+        "vegetable"
+      ]
+    },
+    {
+      "name": "spaghetti",
+      "type": "dinner",
+      "vegetarian": "no",
+      "protein": "turkey",      
+      "ingredients": [
+        "spaghetti noddles",
+        "spaghetti sauce",
+        "ground turkey"
+      ]
+    },
+    {
+      "name": "Soya bean and Rice",
+      "type": "dinner",
+      "vegetarian": "yes",
+      "protein": "soy",      
+      "ingredients": [
+        "soya beans",
+        "rice"
+      ]
+    },
+    {
+      "name": "Tofu with ketchup and green peppers",
+      "type": "dinner",
+      "vegetarian": "yes",
+      "protein": "tofu",
+      "ingredients": [
+        "Extra firm tofu",
+        "green pepper",
+        "ketchup"
+      ]
+    },
+    {
+      "name": "Baked Chicken Wings",
+      "type": "dinner",
+      "vegetarian": "no",
+      "protein": "chicken",
+      "ingredients": [
+        "chicken wings"
+      ]
+    },
+    {
+      "name": "Red beans and Rice",
+      "type": "dinner",
+      "vegetarian": "yes",
+      "protein": "beans",
+      "ingredients": [
+        "read beans",
+        "rice"
+      ]
+    },
+    {
+      "name": "Salmon and Broccoli",
+      "type": "dinner",
+      "vegetarian": "no",
+      "protein": "fish",
+      "ingredients": [
+        "salmon",
+        "broccoli"
+      ]
+    },
+    {
+      "name": "Daal and Rice",
+      "type": "dinner",
+      "vegetarian": "yes",
+      "protein": "beans",
+      "ingredients": [
+        "yellow daal",
+        "rice"
+      ]
+    },
+    {
+      "name": "Curry Chicken",
+      "type": "dinner",
+      "vegetarian": "no",
+      "protein": "chicken",
+      "ingredients": [
+        "boneless skinless chicken thighs",
+        "tomato paste",
+        "onion"
+      ]
+    },
+    {
+      "name": "Spinach Lasagna",
+      "type": "dinner",
+      "vegetarian": "yes",
+      "protein": "none",
+      "ingredients": [
+        "oven ready lasagna",
+        "spaghetti sauce",
+        "mushroom",
+        "spinach",
+        "mozzarella cheese",
+        "ricotta cheese"
+      ]
+    },
+    {
+      "name": "Aloo and peas with rice",
+      "type": "dinner",
+      "vegetarian": "yes",
+      "protein": "none",
+      "ingredients": [
+        "potatoes",
+        "rice",
+        "frozen peas"
+      ]
+    },
+    {
+      "name": "Pork chops with mac and cheese",
+      "type": "dinner",
+      "vegetarian": "no",
+      "protein": "pork",
+      "ingredients": [
+        "pork chops",
+        "macaroni noodles",
+        "extra sharp cheese",
+        "one egg"
+      ]
+    },
+    {
+      "name": "Paneer and Peas",
+      "type": "dinner",
+      "vegetarian": "yes",
+      "protein": "none",
+      "ingredients": [
+        "paneer",
+        "frozen peas"
+      ]
+    },
+    {
+      "name": "Oven Roasted Chicken",
+      "type": "dinner",
+      "vegetarian": "no",
+      "protein": "chicken",
+      "ingredients": [
+        "whole chicken"
+      ]
+    },
+    {
+      "name": "Cheese Ravioli",
+      "type": "dinner",
+      "vegetarian": "yes",
+      "protein": "none",
+      "ingredients": [
+        "frozen ravioli",
+        "spaghetti sauce"
+      ]
+    },    {
+      "name": "Grill cheese sandwich and chips",
+      "type": "lunch",
+      "vegetarian": "yes",
+      "protein": "none",
+      "ingredients": [
+        "white bread",
+        "american cheese",
+        "potato chips"
+      ]
+    },
+    {
+      "name": "Chicken nuggets and fries",
+      "type": "lunch",
+      "vegetarian": "no",
+      "protein": "chicken",
+      "ingredients": [
+        "frozen chicken nuggets",
+        "frozen french fries"
+      ]
+    },
+    {
+      "name": "chicken wings buffalo",
+      "type": "lunch",
+      "vegetarian": "no",
+      "protein": "chicken",
+      "ingredients": [
+        "frozen buffalo chicken wings"
+      ]
+    },
+    {
+      "name": "tacos",
+      "type": "dinner",
+      "vegetarian": "no",
+      "protein": "turkey",
+      "ingredients": [
+        "taco shells",
+        "ground turkey",
+        "shredded cheese taco blend",
+        "taco sauce",
+        "onion",
+        "cilantro",
+        "sour cream"
+      ]
+    },
+    {
+      "name": "ramen noodle",
+      "type": "lunch",
+      "vegetarian": "no",
+      "protein": "none",
+      "ingredients": [
+        "ramen chicken noodle packet"
+      ]
+    },
+    {
+      "name": "chicken patty",
+      "type": "lunch",
+      "vegetarian": "no",
+      "protein": "chicken",
+      "ingredients": [
+        "frozen chicken patty",
+        "white bread",
+        "lettuce"
+      ]
+    },
+    {
+      "name": "Welchs fruit snack",
+      "type": "snack",
+      "vegetarian": "yes",
+      "protein": "none",
+      "ingredients": [
+        "Welchs fruit snack"
+      ]
+    },
+    {
+      "name": "apple sauce",
+      "type": "snack",
+      "vegetarian": "yes",
+      "protein": "none",
+      "ingredients": [
+        "apple sauce"
+      ]
+    },
+    {
+      "name": "Potato Chips",
+      "type": "snack",
+      "vegetarian": "yes",
+      "protein": "none",
+      "ingredients": [
+        "Potato Chips"
+      ]
+    },
+    {
+      "name": "Popcorn",
+      "type": "snack",
+      "vegetarian": "yes",
+      "protein": "none",
+      "ingredients": [
+        "popcorn"
+      ]
+    }
+  ]
+}
